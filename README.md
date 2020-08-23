@@ -21,6 +21,7 @@ The game design based on Lemonade Tycoon
 Buy Inventory -> Cook Inventory -> Sell Food -> Gain Money -> Buy Inventory/Upgrade Stall/Expand City
 
 Main Objective : Collect all kind of Indomie by expanding the city.
+
 Lose Condition : Minus networth with just 1 city left and no inventory to cook.
 
 ### Command Design
